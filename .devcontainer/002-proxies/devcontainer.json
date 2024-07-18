@@ -1,0 +1,6 @@
+{
+    "name": "002 Proxies",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+    "workspaceFolder": "/workspace/002-proxies",
+    "image": "mcr.microsoft.com/devcontainers/universal"
+}
